@@ -1,6 +1,6 @@
 {
-  "name": "starchanout",
-  "version": "1.0.0",
+  "name": "webnewlastest",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/e-jlion/starchanout.git"
+    "url": "https://github.com/lanjlon/webnewlastest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/e-jlion/starchanout/issues"
+    "url": "https://github.com/lanjlon/webnewlastest/issues"
   },
-  "homepage": "https://github.com/e-jlion/starchanout.git#readme",
+  "homepage": "https://github.com/lanjlon/webnewlastest#readme",
   "dependencies": {
-    "starchain": "^1.0.1"
+    "starchain": "^1.0.3"
   }
 }
